@@ -2,7 +2,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages e Tecnologies
 
 <img 
     align="left" 
@@ -62,10 +62,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br>
+</br>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
@@ -84,7 +86,7 @@
 
 ---
     
-## Connect with me
+## 💬 Contacte me
 
 <div>
   <a href="https://www.linkedin.com/in/alinerabech/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
